@@ -10,6 +10,10 @@ O projeto "Costs" é uma série de aulas em que aprendemos desde os fundamentos 
 2. Todo
 O projeto "Todo" consiste em uma lista de tarefas em React, com manipulação de dados utilizando o JSONServer. Nesse projeto, você terá a oportunidade de praticar a criação de componentes, o gerenciamento de estado, a interação com o servidor JSON e a implementação das funcionalidades básicas de um aplicativo de lista de tarefas.
 
+3 - MoviesLib
+
+O projeto "MoviesLib" permite que o usuário pesquise por filmes, colete informações e exiba os melhores filmes. Esse projeto utiliza a API do TMDB (The Movie Database) para obter os dados dos filmes. Tive a oportunidade de aprender sobre a integração com APIs externas, manipulação de dados e exibição de informações relevantes para os usuários.
+
 Sinta-se à vontade para explorar esses projetos e aprender mais sobre o desenvolvimento com React!
 
 ❗ Aviso
