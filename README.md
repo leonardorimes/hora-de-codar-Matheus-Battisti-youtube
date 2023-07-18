@@ -13,6 +13,10 @@ O projeto "MoviesLib" permite que o usuário pesquise por filmes, colete informa
 
 Sinta-se à vontade para explorar esses projetos e aprender mais sobre o desenvolvimento com React!
 
+3 - Projeto Quiz
+
+Este é um projeto de um aplicativo de Quiz construído utilizando as bibliotecas React e React Hooks, mais especificamente as funções useContext e useReducer. O objetivo deste projeto é fornecer uma estrutura de aplicativo de perguntas e respostas interativas, onde o estado global da aplicação é gerenciado de forma eficiente e compartilhado entre diferentes componentes usando os Hooks useContext e useReducer.
+
 ❗ Aviso
 Este projeto é apenas para fins educacionais. Certifique-se de compreender o código antes de utilizá-lo em produção. O criador deste projeto e o canal "Hora de Codar" não se responsabilizam por qualquer dano ou problema causado pelo uso deste código.
 
